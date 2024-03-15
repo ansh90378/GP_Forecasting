@@ -47,6 +47,6 @@ To replicate the project results and perform gold price forecasting and trading 
 Contributions to the project are welcome! Feel free to open issues or submit pull requests for bug fixes, enhancements, or new features.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
 
 ---
